@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 31-05-2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -43,10 +43,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
+
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b35dad16-e8d8-4e9f-955e-50d9c3d43f9c" />
 
-## Result: 
+
+### Name: ALLEN JOVETH P
+### Register Number: 212223240007
+
+
+# Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
